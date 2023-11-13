@@ -1,5 +1,5 @@
 {
-  "description": "Electron React TW",
+  "description": "Electron React Tailwindcss",
   "author": "Nazmus",
   "build": {
     "asar": true,

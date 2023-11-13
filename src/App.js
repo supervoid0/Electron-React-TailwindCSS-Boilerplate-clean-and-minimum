@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div className="text-green-500">
-        ELECTRON REACT TAILWINDCSS BOILERPLATE
+        ELECTRON-REACT-TAILWINDCSS CLEAN BOILERPLATE
       </div>
     </div>
   );
